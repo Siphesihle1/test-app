@@ -1,3 +1,2 @@
 1. FIRST - First test file
 2. SECOND - First test file
-3. THIRD - First test file
